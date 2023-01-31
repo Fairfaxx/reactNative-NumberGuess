@@ -7,6 +7,7 @@ export const InstructionsText = ({ children, style }) => {
 
 const styles = StyleSheet.create({
   titleInstructions: {
+    fontFamily: 'open-sans',
     color: Colors.primaryYellow,
     fontSize: 26,
   },
